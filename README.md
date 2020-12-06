@@ -1,1 +1,1 @@
-This is just a quick portfolio of some of the code ive written, a large majority has been written for unity games ive made for fun.
+This is a quick portfolio of some work i've done. The quality varies because a lot is from when i was just starting out.
