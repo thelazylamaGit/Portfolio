@@ -1,0 +1,2 @@
+In order to run Snake.jar you must have JDK development kit installed or a JRE
+JDK Link: https://www.oracle.com/au/java/technologies/javase-jdk15-downloads.html
